@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dbd068259c805c41b7bcaead75c73d0, type: 3}
+  m_Name: Aprendiz_3
+  m_EditorClassIdentifier: 
+  lines:
+  - text: "Las contrase\xF1as son algo important\xEDsimo."
+    Emotion: 0
+    audioClip: {fileID: 8300000, guid: 6c80c9af5cedda34b93875527b803b17, type: 3}
+    Question: 0
+  - text: "\xA1Espero que aprendas mucho jugando a este minijuego que he preparado!"
+    Emotion: 1
+    audioClip: {fileID: 8300000, guid: 17117170ad7fe8d42a364da22dd8e1c1, type: 3}
+    Question: 0
+  currentLevel: 0
+  nextConversation: {fileID: 0}

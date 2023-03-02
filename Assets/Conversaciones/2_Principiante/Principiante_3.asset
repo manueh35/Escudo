@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dbd068259c805c41b7bcaead75c73d0, type: 3}
+  m_Name: Principiante_3
+  m_EditorClassIdentifier: 
+  lines:
+  - text: "Saber distinguir mensajes fraudulentos es esencial hoy en d\xEDa. "
+    Emotion: 1
+    audioClip: {fileID: 8300000, guid: a16cf016ea2108045a80352263eab98a, type: 3}
+    Question: 0
+  - text: "\xBFPor qu\xE9 no juegas a FRAUDES Y SPAM para aprender m\xE1s?"
+    Emotion: 1
+    audioClip: {fileID: 8300000, guid: ce20b9e3cd1186c48877802faaebe4a1, type: 3}
+    Question: 0
+  currentLevel: 1
+  nextConversation: {fileID: 0}

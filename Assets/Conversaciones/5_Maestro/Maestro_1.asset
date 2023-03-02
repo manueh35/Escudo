@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dbd068259c805c41b7bcaead75c73d0, type: 3}
+  m_Name: Maestro_1
+  m_EditorClassIdentifier: 
+  lines:
+  - text: "\xBFQu\xE9...?"
+    Emotion: 2
+    audioClip: {fileID: 8300000, guid: 6839554fbd2a34e4aa1ca29b57a8ca2f, type: 3}
+    Question: 0
+  - text: "\xA1Lo veo y no lo creo! \xA1Ya has alcanzado el nivel m\xE1ximo!"
+    Emotion: 5
+    audioClip: {fileID: 8300000, guid: 0d9bf2d4e5ed0c749abad08273481d80, type: 3}
+    Question: 0
+  - text: "\xA1Much\xEDsimas gracias por jugar a ESCUDO! Espero que hayas aprendido
+      un mont\xF3n y te hayas divertido aprendiendo. Te animo a que sigas aprendiendo
+      ciberseguridad."
+    Emotion: 1
+    audioClip: {fileID: 8300000, guid: 7284392f347606448aa9288b2bfb72f1, type: 3}
+    Question: 0
+  - text: "\xA1Comparte ESCUDO con familiares y amigos!"
+    Emotion: 1
+    audioClip: {fileID: 8300000, guid: 6515ee6b56c8d5b44840dd87e4bd3292, type: 3}
+    Question: 0
+  - text: "\xBFQuieres cerrar la aplicaci\xF3n?"
+    Emotion: 1
+    audioClip: {fileID: 8300000, guid: bd34b160900f229488abc16131717bf7, type: 3}
+    Question: 1
+  currentLevel: 4
+  nextConversation: {fileID: 0}

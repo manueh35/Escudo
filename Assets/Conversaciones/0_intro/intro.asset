@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dbd068259c805c41b7bcaead75c73d0, type: 3}
+  m_Name: intro
+  m_EditorClassIdentifier: 
+  lines:
+  - text: "\xA1Hola! Bienvenido a ESCUDO, tu plataforma para aprender ciberseguridad."
+    Emotion: 1
+    audioClip: {fileID: 8300000, guid: f362a24b60e793146ac0efc6c2789778, type: 3}
+    Question: 0
+  - text: "Yo soy C\xE1ndido, y estoy aqu\xED para ayudarte. \xA1Vamos a aprender
+      un mont\xF3n de ciberseguridad juntos!"
+    Emotion: 0
+    audioClip: {fileID: 8300000, guid: ce444949dccecb149bc08669d73b1f01, type: 3}
+    Question: 0
+  - text: "Empecemos por lo b\xE1sico. \xBFSabes qu\xE9 es la ciberseguridad?"
+    Emotion: 2
+    audioClip: {fileID: 8300000, guid: 7a2b20725489ffe489f553aeb552af7c, type: 3}
+    Question: 1
+  - text: "La ciberseguridad es el \xE1rea de la inform\xE1tica enfocada a la protecci\xF3n
+      de los dispositivos y la informaci\xF3n que estos contienen."
+    Emotion: 0
+    audioClip: {fileID: 8300000, guid: 24381a4101497fc47944f16b99f8e8fa, type: 3}
+    Question: 0
+  - text: "En la era digital, tus datos son tu posesi\xF3n m\xE1s valiosa. Debes
+      proteger tu informaci\xF3n y tener cuidado con qu\xE9 y qui\xE9n la compartes."
+    Emotion: 3
+    audioClip: {fileID: 8300000, guid: bfe0f3be99670814480126a1f90eda75, type: 3}
+    Question: 0
+  - text: "\xA1Voy a explicarte la interfaz de esta aplicaci\xF3n y a jugar!"
+    Emotion: 1
+    audioClip: {fileID: 8300000, guid: d6f8a22a3f61ec44fbda0202ffc56c9b, type: 3}
+    Question: 0
+  currentLevel: 0
+  nextConversation: {fileID: 11400000, guid: 592b71dfab65648478949e7cb0bcf629, type: 2}

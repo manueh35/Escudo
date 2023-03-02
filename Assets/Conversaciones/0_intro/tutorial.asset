@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dbd068259c805c41b7bcaead75c73d0, type: 3}
+  m_Name: tutorial
+  m_EditorClassIdentifier: 
+  lines:
+  - text: La interfaz de escudo es muy sencilla.
+    Emotion: 1
+    audioClip: {fileID: 8300000, guid: 2830bc87f4470514d8038f1424595a41, type: 3}
+    Question: 0
+  - text: "En la barra superior tenemos dos botones: opciones (izquierda) y men\xFA
+      (derecha)."
+    Emotion: 0
+    audioClip: {fileID: 8300000, guid: bba1e866978519843bab31c841082d7d, type: 3}
+    Question: 0
+  - text: "Opciones muestra un desplegable en el que puedes cambiar entre modo claro
+      y modo oscuro, cambiar el tama\xF1o de letra y activar o desactivar el sonido."
+    Emotion: 0
+    audioClip: {fileID: 8300000, guid: d7841c47a4291a049aa05b40531cb98e, type: 3}
+    Question: 0
+  - text: "El bot\xF3n de men\xFA, con forma de casita, te permite salir de los minijuegos
+      y volver a esta pantalla, el men\xFA principal."
+    Emotion: 0
+    audioClip: {fileID: 8300000, guid: 8a501acbb43a5b9479c6301e3d533e89, type: 3}
+    Question: 0
+  - text: "En el centro de la pantalla est\xE1 la barra de experiencia. Los puntos
+      que consigas en los minijuegos llenar\xE1n la barra. Puedes desbloquear nuevos
+      minijuegos subiendo de nivel."
+    Emotion: 0
+    audioClip: {fileID: 8300000, guid: ef195a8f9028b18419f1fdb88942835f, type: 3}
+    Question: 0
+  - text: Los botones de los minijuegos te llevan a las pantallas de cada uno de
+      los minijuegos.
+    Emotion: 0
+    audioClip: {fileID: 8300000, guid: ea0a915a55fe2a840a6aac835b814b9f, type: 3}
+    Question: 0
+  - text: "Y por \xFAltimo... Estoy yo. \xA1Puedes pulsar encima de m\xED para resolver
+      dudas o charlar un ratito!"
+    Emotion: 5
+    audioClip: {fileID: 8300000, guid: 75157ccf2c334e4419f9a6bddc066110, type: 3}
+    Question: 0
+  currentLevel: 0
+  nextConversation: {fileID: 0}

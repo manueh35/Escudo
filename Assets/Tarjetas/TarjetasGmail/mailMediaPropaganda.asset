@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76ec1f4804d0d1a4f9a702f32d1cb673, type: 3}
+  m_Name: mailMediaPropaganda
+  m_EditorClassIdentifier: 
+  esFraudulenta: 0
+  remitente_url: MediaMarkt
+  contenido: "\xA1Ya ha llegado el Black Friday a Media Markt! Desde este lunes disfruta
+    de cientos de productos sin IVA. No dejes pasar las mejores ofertas en electrodom\xE9sticos
+    y electr\xF3nica. Para m\xE1s informaci\xF3n visita nuestra web.\n<color=blue>www.mediamarkt.es</color>"
+  explicacionTarjeta: "Es un correo SPAM de publicidad de una tienda leg\xEDtima
+    ya que el enlace corresponde con el original."
+  template: {fileID: 7480509057091337268, guid: 10818cfe56cfbe049bf528da4bb97d88, type: 3}
+  asuntoMail: "Black Friday \xA1Ya Disponible!"
+  imagenPerfil: {fileID: 21300000, guid: 88194b98266bca34da7e5396a2d87367, type: 3}
+  gmailInbox: {fileID: 21300000, guid: b1de3390aab16f447b238f01128c5e30, type: 3}

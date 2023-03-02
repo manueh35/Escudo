@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: 821a693012a507242802be5792a19146
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Recurso 5_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1086
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6548d9e91a4b94f4bba7e134a2175415
+      internalID: 1430412546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 5_6
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1160
+        width: 565
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa10231d82a66b4ab0b9f6b35bb6c50
+      internalID: -819102555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 5_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1088
+        width: 557
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1e2d5061446cd4eb7eb7607f5a37af
+      internalID: 1022520977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 5_48
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 909
+        width: 565
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de88e78562fd2e4a9bee336b219a451
+      internalID: -826486076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 5_54
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 948
+        width: 434
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18fed52e2a81af4cbe1c2d8bbbd942f
+      internalID: -1635353067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 5_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 840
+        width: 177
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145f05399137ffd44866e98ae0466c51
+      internalID: 1382225742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 5_66
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 831
+        width: 434
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b66ea62bae03154e862c20bc04fda52
+      internalID: -1040596196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 5_79
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 840
+        width: 352
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903350aa1bf1b3644bc0f15a549dd1ab
+      internalID: 1240360069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 5_85
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 333
+        width: 440
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbcf5bb6ca932a42be895ab5a7e2770
+      internalID: -1131223864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 5_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 294
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d75aa4fe0606b4392b09b0240ef95c
+      internalID: 1730319636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 5_145
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 294
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92468b483208b954ca9ca8869c4625a3
+      internalID: 627900067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 5_146
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 294
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d098a111a108a2244a29c4dea0770a71
+      internalID: -1017477987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recurso 5_147
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 0
+        width: 294
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a50050eb9988224ca22fda4c885d7e3
+      internalID: 1129025775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Recurso 5_114: 1975543375
+      Recurso 5_138: -499464763
+      Recurso 5_7: 1545978412
+      Recurso 5_52: 275485108
+      Recurso 5_123: -1148189728
+      Recurso 5_90: -1152794369
+      Recurso 5_69: 92189878
+      Recurso 5_40: 191849541
+      Recurso 5_65: 2113981683
+      Recurso 5_87: 1431544129
+      Recurso 5_30: -1431547085
+      Recurso 5_3: -196980521
+      Recurso 5_44: -362881994
+      Recurso 5_74: 771842887
+      Recurso 5_86: 1133925750
+      Recurso 5_112: -853146755
+      Recurso 5_22: 2065579402
+      Recurso 5_58: 454212556
+      Recurso 5_33: 1891072999
+      Recurso 5_124: -1799493373
+      Recurso 5_98: -1226655184
+      Recurso 5_35: -13987286
+      Recurso 5_5: 650931188
+      Recurso 5_100: 1001628229
+      Recurso 5_27: 71482266
+      Recurso 5_139: 2050277906
+      Recurso 5_17: -1283967498
+      Recurso 5_45: -1970540790
+      Recurso 5_8: 978602144
+      Recurso 5_54: -1635353067
+      Recurso 5_120: -930831744
+      Recurso 5_55: 1382225742
+      Recurso 5_106: 1094885406
+      Recurso 5_23: -848954890
+      Recurso 5_43: -1028959439
+      Recurso 5_15: 434181052
+      Recurso 5_125: 964680630
+      Recurso 5_128: -371942136
+      Recurso 5_16: 803828602
+      Recurso 5_57: -2141604706
+      Recurso 5_133: -1257855918
+      Recurso 5_80: 1925199397
+      Recurso 5_49: -955881939
+      Recurso 5_68: -1412012293
+      Recurso 5_108: -1394348497
+      Recurso 5_71: 420534581
+      Recurso 5_93: -964649298
+      Recurso 5_143: -822818082
+      Recurso 5_109: 156122874
+      Recurso 5_111: 352825705
+      Recurso 5_79: 1240360069
+      Recurso 5_21: -57450450
+      Recurso 5_104: 1725830281
+      Recurso 5_13: -767944377
+      Recurso 5_76: 466003885
+      Recurso 5_83: -1846962061
+      Recurso 5_117: 33670781
+      Recurso 5_88: 199216582
+      Recurso 5_19: 1332595859
+      Recurso 5_113: 707205109
+      Recurso 5_99: 1340120629
+      Recurso 5_37: -6710875
+      Recurso 5_134: -379465905
+      Recurso 5_136: -599893167
+      Recurso 5_146: -1017477987
+      Recurso 5_29: 784108747
+      Recurso 5_135: -1738355762
+      Recurso 5_144: 1730319636
+      Recurso 5_36: -396782586
+      Recurso 5_39: -1459597575
+      Recurso 5_61: 1290275970
+      Recurso 5_75: -837113309
+      Recurso 5_137: 606877525
+      Recurso 5_63: 1844857346
+      Recurso 5_91: -19334287
+      Recurso 5_141: 1945581297
+      Recurso 5_20: -1262715432
+      Recurso 5_95: 1993453461
+      Recurso 5_47: 826500695
+      Recurso 5_77: -1620647765
+      Recurso 5_92: -1049300585
+      Recurso 5_132: -2028099063
+      Recurso 5_64: -663477780
+      Recurso 5_10: -1343408523
+      Recurso 5_116: 1151724684
+      Recurso 5_59: 1029785495
+      Recurso 5_66: -1040596196
+      Recurso 5_42: -1299339638
+      Recurso 5_60: 100496462
+      Recurso 5_4: -956874295
+      Recurso 5_129: 2055338232
+      Recurso 5_11: -880830930
+      Recurso 5_46: 21799558
+      Recurso 5_18: 1022520977
+      Recurso 5_53: -118796427
+      Recurso 5_67: -806816614
+      Recurso 5_103: -1732806778
+      Recurso 5_89: 96274434
+      Recurso 5_28: 211104163
+      Recurso 5_50: 1294955344
+      Recurso 5_145: 627900067
+      Recurso 5_0: 1430412546
+      Recurso 5_81: -1850289734
+      Recurso 5_101: 324480911
+      Recurso 5_94: 825356591
+      Recurso 5_102: -801886896
+      Recurso 5_130: 1070720179
+      Recurso 5_97: 619128295
+      Recurso 5_105: -1325287310
+      Recurso 5_82: 439787252
+      Recurso 5_118: -2062198392
+      Recurso 5_119: -538921197
+      Recurso 5_122: -124883598
+      Recurso 5_72: -216660926
+      Recurso 5_51: 656796303
+      Recurso 5_115: -944678012
+      Recurso 5_2: 1789643614
+      Recurso 5_1: -50177270
+      Recurso 5_9: 1696937442
+      Recurso 5_38: -266235697
+      Recurso 5_73: -171887989
+      Recurso 5_85: -1131223864
+      Recurso 5_121: 862193724
+      Recurso 5_110: -753252124
+      Recurso 5_56: -872889664
+      Recurso 5_78: -1714294717
+      Recurso 5_126: -1846070149
+      Recurso 5_41: 1331752413
+      Recurso 5_6: -819102555
+      Recurso 5_31: -1486610101
+      Recurso 5_107: -361393568
+      Recurso 5_127: 1780522428
+      Recurso 5_12: 1023738756
+      Recurso 5_62: -1708755310
+      Recurso 5_140: 1168144215
+      Recurso 5_14: -1320685395
+      Recurso 5_147: 1129025775
+      Recurso 5_142: -1874294224
+      Recurso 5_70: 771838821
+      Recurso 5_84: -1943594142
+      Recurso 5_32: -2094434890
+      Recurso 5_131: -871995399
+      Recurso 5_26: 956219544
+      Recurso 5_24: -1505634209
+      Recurso 5_25: -1975142676
+      Recurso 5_34: 528630824
+      Recurso 5_48: -826486076
+      Recurso 5_96: 1096440025
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

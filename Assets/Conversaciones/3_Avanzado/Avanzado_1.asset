@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dbd068259c805c41b7bcaead75c73d0, type: 3}
+  m_Name: Avanzado_1
+  m_EditorClassIdentifier: 
+  lines:
+  - text: "\xA1Ya has desbloqueado todos los minijuegos!"
+    Emotion: 5
+    audioClip: {fileID: 8300000, guid: e693deda8262b1d4eaea5f8a1157497b, type: 3}
+    Question: 0
+  - text: "\xBFCu\xE1l es tu favorito? \xBFCrees que podr\xEDas batir un nuevo r\xE9cord?"
+    Emotion: 2
+    audioClip: {fileID: 8300000, guid: 895bed3fcfaeacc40a35071635167108, type: 3}
+    Question: 0
+  currentLevel: 2
+  nextConversation: {fileID: 0}
